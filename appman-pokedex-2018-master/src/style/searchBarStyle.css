@@ -1,0 +1,8 @@
+.formContainer{
+    width: 100%;
+}
+.searchBar{
+    width: 90%;
+    margin: 1em 2em;
+    padding: 1em;
+}

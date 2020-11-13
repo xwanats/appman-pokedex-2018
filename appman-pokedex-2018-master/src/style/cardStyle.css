@@ -1,0 +1,26 @@
+.cardRow{
+    background-color: #d5d6dc;
+}
+.cardRow:hover{
+    background-color: #aeaeae;
+}
+.imageContainer{
+    width: 160px;
+    padding: 2em;
+}
+.imageStyle{
+    width:100%;
+    height: auto;
+    
+}
+.tableConfig{
+    width: 100%;
+    position: relative;
+    padding: 1em;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.nameStyle{
+    font-family: Gaegu;
+    font-size: 2rem;
+}
